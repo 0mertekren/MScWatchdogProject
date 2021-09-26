@@ -1,0 +1,19 @@
+P1 is started and it has a pid of 17557
+P2 is started and it has a pid of 17559
+P3 is started and it has a pid of 17560
+P4 is started and it has a pid of 17563
+P5 is started and it has a pid of 17564
+P3 is killed
+Restarting P3
+P3 is started and it has a pid of 17566
+P1 is killed, all processes must be killed
+Restarting all processes
+P1 is started and it has a pid of 17570
+P2 is started and it has a pid of 17571
+P3 is started and it has a pid of 17572
+P4 is started and it has a pid of 17575
+P5 is started and it has a pid of 17576
+P5 is killed
+Restarting P5
+P5 is started and it has a pid of 17578
+Watchdog is terminating gracefully
